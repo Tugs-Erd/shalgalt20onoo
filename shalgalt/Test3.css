@@ -1,0 +1,14 @@
+body{
+    width: 1000px;
+}
+img{
+    height: 100px;
+    width: 100px;
+    display: flex;
+}
+.Slider-container{
+    display: flex;
+}
+.Slider{
+    display: flex;
+}

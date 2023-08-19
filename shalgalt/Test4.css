@@ -1,0 +1,38 @@
+.all h1{
+    position: absolute;
+    top: 120px;
+    left: 300px;
+}
+ input{
+   width: 400px;
+   height: 50px;
+   border-radius: 30px;
+   border: 0px solid white;
+   background-color: rgb(237, 236, 236);
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+.login button{
+    width: 400px;
+    height: 50px;
+    border-radius: 30px;
+    margin-top: 10px;
+    border: 0px solid white;
+    background-color: rgb(44, 44, 161);
+    color: white;
+}
+.login{
+    width: 50%;
+}
+.rem{
+    color:rgb(44, 44, 161);
+    display: block;
+    text-decoration: none;
+}
+.for{
+    color: grey;
+    text-decoration: none;
+    position: absolute;
+    left: 570px;
+    top: 470px;
+}

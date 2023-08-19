@@ -1,0 +1,27 @@
+
+.Accordion {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.accordion-Items{
+    width: 250px;
+}
+.accordion-content{
+    border: 1px solid black;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+h1{
+    margin-bottom: 70px;
+    color: rgb(44, 44, 161);
+    border-bottom: 5px solid rgb(44, 44, 161);
+}
+.accordionBtn{
+    padding: 7px;
+    margin-bottom: 10px;
+    width: 250px;
+    background-color: lightpink;
+}
